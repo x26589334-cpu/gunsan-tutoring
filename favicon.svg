@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="14" fill="#3d6f9e"/>
-<text x="32" y="42" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="23" font-weight="700" letter-spacing="-1" fill="#fff" text-anchor="middle">군산</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#3d6f9e"/><path d="M19 55 L29 15 M45 55 L35 15" stroke="#fff" stroke-width="3.6" stroke-linecap="round"/><g stroke="#fff" stroke-width="2.6" stroke-linecap="round" opacity=".85"><path d="M17 49h30"/><path d="M20 40h24"/><path d="M23 32h18"/><path d="M25 25h14"/><path d="M27 19h10"/></g></svg>
